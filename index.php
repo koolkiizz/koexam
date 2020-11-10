@@ -3,7 +3,7 @@
 include 'header.php';
 ?>
     <section id="slider" class="slider-element slider-parallax swiper_wrapper clearfix">
-
+dfsd fsdf sdf ấ
       <div class="swiper-container swiper-parent">
         <div class="swiper-wrapper">
           <div class="swiper-slide dark" style="background-image: url('images/slider/swiper/1.jpg');">
